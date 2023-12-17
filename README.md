@@ -7,7 +7,7 @@ Files:
 Data_Exploration.ipynb - initial data exploration and cleaning and encoding of the data
 Modeling.ipynb - Spliting the data into training, testing, and hold out. Baseleine model, Regression model, Decision Tree model
 
-Link to the .pdf on the whole report:
+Link to the .pdf on the whole report: https://drive.google.com/file/d/1Tx8UqZshuHBtWMIb9xIXXVi6PYM7qUMR/view?usp=sharing
 
 Background:
 
